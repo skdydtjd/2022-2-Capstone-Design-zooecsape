@@ -1,4 +1,4 @@
-# 2022-2-Capstone-Design-zooecsape Script
+# 2022-2-Capstone-Design-ZooEscape Script
 
 2D Platformer, Challenge Game
 
