@@ -71,4 +71,4 @@ __3. Merge 과정 수행 중 코드 리뷰 및 수정__
 # 플레이 링크
 https://play.unity.com/en/games/9e63184c-a3e5-4372-abf2-fd1f00e44ac0/zoo-escape
 
-(WebGL 빌드 버전의 경우 UI text가 일부 짤리는 상황이 있음)
+(WebGL 빌드 버전의 경우 UI Text가 일부 짤리는 경우가 있음)
