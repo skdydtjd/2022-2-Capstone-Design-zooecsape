@@ -22,7 +22,7 @@
 
 Unity 2022.1.0f1, Windows, C#
 
-UntiyEditor
+UntiyEditor 활용
 
 # 개발한 부분
 
