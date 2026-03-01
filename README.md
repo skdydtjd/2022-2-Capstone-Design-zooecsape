@@ -20,7 +20,7 @@
 
 # 개발 환경
 
-Unity 2022.1.0f1, Windows, C#
+Unity 2022.1.0f1, Windows, C#, 2D
 
 UntiyEditor 활용
 
